@@ -1,3 +1,6 @@
+/*Author: PUSPA RAJ KARNA
+Contact: https://www.facebook.com/pusparaj.karna */
+
 #include <stdio.h>
 int main()
 {
