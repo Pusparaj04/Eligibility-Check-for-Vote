@@ -13,7 +13,7 @@ int main()
     for (int i = 1; i < 100; i++)
     {
         printf("%d) ", i);
-        printf("Enter the year of birth: ");
+        printf("Enter your year of birth: ");
         scanf("%d", &YOB);
         age = PY - YOB;
         printf("Since you're %d years old, ", age);
